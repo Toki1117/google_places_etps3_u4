@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapsSalguero</string>
+    <string name="API_KEY" translatable="false">AIzaSyAqtqy5Lv25SoDqDeT1xQVwzLw3W4UDBFY</string>
+</resources>
